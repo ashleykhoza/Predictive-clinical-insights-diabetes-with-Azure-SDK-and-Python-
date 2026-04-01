@@ -1,0 +1,2 @@
+# Predictive-clinical-insights-diabetes-with-Azure-SDK-and-Python-
+This project details setting up a cloud machine learning environment in Azure. I built a workspace, configured compute resources including a VM and a cluster, and ran a model training script with the Python SDK. After training, I analyzed results in Azure Machine Learning studio, where the model reached 82.97% accuracy I'm very pleased.
